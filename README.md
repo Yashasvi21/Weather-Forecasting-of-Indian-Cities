@@ -2,7 +2,6 @@
 
 A comprehensive Power BI dashboard that provides real-time weather forecasting and analysis for multiple cities using weather API data.
 
-![Dashboard Screenshot](./images/dashboard-screenshot.png)
 
 ## 📊 Project Overview
 
